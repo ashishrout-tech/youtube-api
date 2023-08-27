@@ -1,0 +1,6 @@
+{
+  access_token: 'ya29.a0AfB_byC37zb9M2sL0nNav88uLv__p2_JkWhh_oIEeLceN48DQ3UGcNVIQOspTJ82lDx6L4ZaYl5nVCk3JdP9E4mh7E79P8Cvc-d_25WL_cBfPEWWg0pKyZgxK2GfaGm_xDWJDy7KbmNw0BxQpgd4FUa_ZKChl4b9a3hZwQaCgYKAV4SARESFQHsvYlsk1d2DHPDurqkKfFHV7js6w0173',
+  scope: 'https://www.googleapis.com/auth/drive.metadata.readonly https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube https://www.googleapis.com/auth/youtube.force-ssl',
+  token_type: 'Bearer',
+  expiry_date: 1692990242477
+}
